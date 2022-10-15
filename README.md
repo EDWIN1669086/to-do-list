@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project was made entirely with HTML, CSS, and JavaScript using the React framework. Simple to do list app that allows functionalities for adding and removing tasks.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
